@@ -9,7 +9,6 @@ export default defineUserConfig({
   description: "vuepress-theme-hope 的文档演示",
 
   theme,
-
   // Enable it with pwa
   // shouldPrefetch: false,
 });
